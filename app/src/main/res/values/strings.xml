@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sınıf Sayacı</string>
+    <string name="izin_kamera_gerekçesi">Tespit için kameraya erişim gerekiyor</string>
+    <string name="kamera_izni_yok">Bu uygulama kamera izni olmadığı için çalışamıyor. Uygulama şimdi çıkacaktır.</string>
+    <string name="düşük_depolama_hatası">Düşük cihaz depolama alanı nedeniyle yüz dedektör bağımlılıkları indirilemiyor</string>
+    <string name="girisEkranı">Giriş Ekrani</string>
+    <string name="yeni_kullanici_kaydi">Yeni Kullanıcı Kaydi</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="giris_parolası">Parola</string>
+    <string name="Kullanici_adi">Kullanıcı Adı</string>
+    <string name="hesap_olustur" />
+    <string name="Kayit_ol">Kayıt Ol</string>
+    <string name="deneme">Bulunan Kişi Sayısı</string>
+    <string name="Sonuc">sonuc</string>
+    <string name="email">Email</string>
+    <string name="çalıstır">calistir</string>
+</resources>
